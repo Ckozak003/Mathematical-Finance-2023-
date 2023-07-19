@@ -1,0 +1,4 @@
+The attached python codes detail various theoretical financial modeling. These codes demonstrate examples of delta heding on
+different kinds of options (Up & Out, vanilla Asian, European Call, etc.), obtaining the discounted prices of options based on 
+theoretical paramaters such as volatility, maturity, and risk neutral rates. Also included are 2 files utilizing YahooFinance API to pull 
+current market data on various FAANG stocks.
